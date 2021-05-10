@@ -9,7 +9,7 @@
 
 - 👨‍💻 Alle mine projekter er tilgængelige på [https://github.com/BeatzDiscord?tab=repositories](https://github.com/BeatzDiscord?tab=repositories)
 
-- 📫 G-mail **Travs.dk@gmail.com**
+- 📫 G-mail **Danskedevelopers@gmail.com**
 
 - ⚡ Sjov kendsgerning **jeg tror jeg er mega sej xD**
 
